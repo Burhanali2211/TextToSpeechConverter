@@ -1,28 +1,28 @@
-🎙️ CLI Text-to-Speech Converter
+##🎙️ CLI Text-to-Speech Converter
 
-📌 Overview
+##📌 Overview
 
 The CLI Text-to-Speech Converter is a simple Python script that converts user-inputted text into speech using the pyttsx3 library. It also provides an option to save the generated speech as an MP3 file.
 
-🚀 Features
+##🚀 Features
 
-🔊 Converts text into speech
+##🔊 Converts text into speech
 
-🎤 Plays the speech in real-time
+#🎤 Plays the speech in real-time
 
-💾 Saves speech as an MP3 file (optional)
+#💾 Saves speech as an MP3 file (optional)
 
-⚡ Works offline (no internet required)
+#⚡ Works offline (no internet required)
 
-🎭 Customizable voice & speech rate
+# 🎭 Customizable voice & speech rate
 
-🛠️ Requirements
+## 🛠️ Requirements
 
 Python 3.x
 
 pyttsx3 library (install using pip install pyttsx3)
 
-📥 Installation
+## 📥 Installation
 
 Clone the repository:
 
@@ -33,7 +33,7 @@ Install dependencies:
 
 pip install pyttsx3
 
-▶️ Usage
+##▶️ Usage
 
 Run the script:
 
@@ -45,7 +45,7 @@ Listen to the generated speech.
 
 (Optional) Save it as an audio file.
 
-⚙️ Customization
+## ⚙️ Customization
 
 You can modify the script to:
 
@@ -55,7 +55,7 @@ Adjust the speech rate (speed)
 
 Read text from a file instead of user input
 
-📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
 
